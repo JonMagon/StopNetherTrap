@@ -1,0 +1,11 @@
+name: StopNetherTrap
+version: 0.1
+description: Plugin to prevent nether portal traps
+author: JonMagon
+main: com.jonmagon.MainClass
+api-version: 1.13
+
+commands:
+  stopnt:
+    description: Plugin info
+    usage: /
