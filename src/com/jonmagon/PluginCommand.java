@@ -9,7 +9,7 @@ public class PluginCommand implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 
-        sender.sendMessage(Util.getMessage("&aStopNetherTrap v0.1 [Author: &Dmitry Sidorov (JonMagon)&a]"));
+        sender.sendMessage(Util.getMessage("&aStopNetherTrap v0.1 [Author: &bDmitry Sidorov (JonMagon)&a]"));
 
         return true;
     }
