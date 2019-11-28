@@ -6,17 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23bb9f65-5da3-467b-9ebd-c4c2e7517cff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_1_13_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/spigot_1_13_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jonmagon/Looper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jonmagon/Looper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jonmagon/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jonmagon/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jonmagon/PluginCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jonmagon/PluginCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jonmagon/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jonmagon/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
-    </list>
+    <list default="true" id="23bb9f65-5da3-467b-9ebd-c4c2e7517cff" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
