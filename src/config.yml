@@ -11,3 +11,8 @@ plural-word: "seconds"
 stay-counter: 15 # how long you can stay in portal
 stay-warn: 5 # when start sending warning to player
 auto-enable: 120 # time before auto enable disabled portal
+
+# the list is all in lowercase
+ignored-worlds:
+  - spawn
+  - world1
