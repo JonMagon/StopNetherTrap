@@ -22,7 +22,7 @@ public class PluginCommand implements CommandExecutor {
                 sender.sendMessage(Util.getMessage("&b[StopNetherTrap] &cYou don't have permission to reload."));
         }
         else
-            sender.sendMessage(Util.getMessage("&bStopNetherTrap v1.0 &e[Dmitry Sidorov (JonMagon)]"));
+            sender.sendMessage(Util.getMessage("&bStopNetherTrap v1.1 &e[Dmitry Sidorov (JonMagon)]"));
 
         return true;
     }
